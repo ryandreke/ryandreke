@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ryandreke
+- 👋 Hi, I’m Ryan
 - 👀 I’m interested in geospatial analayses and environmental monitoring.
 - 🌱 I’m currently working as a spatial analyst.
 - 📫 How to reach me ryanandrekerr@gmail.com
